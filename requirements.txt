@@ -1,0 +1,13 @@
+geodatasets
+geopandas
+geopy
+k_means_constrained
+matplotlib
+numpy
+os
+pandas
+scipy
+seaborn
+shapely
+sklearn
+statsmodels
